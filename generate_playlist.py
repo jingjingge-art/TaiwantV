@@ -14,6 +14,8 @@ SOURCES = (
     "https://raw.githubusercontent.com/jingjingge-art/SHEYE/refs/heads/main/shanghaieye.txt",
     "https://raw.githubusercontent.com/DEvmIb/famelack-channels-m3u/refs/heads/main/m3u/tw.m3u",
     "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/tw.m3u",
+    "https://sub.ottiptv.cc/huyayqk.m3u",
+    "https://sub.ottiptv.cc/douyuyqk.m3u",
 )
 OUTPUT = Path("中国台湾省iptv.txt")
 
