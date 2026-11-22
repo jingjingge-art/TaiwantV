@@ -172,7 +172,7 @@ GOOD TV CH45 卡通 (720p) [Not 24/7],https://live.streamingfast.net/osmflivech4
 综合,#genre#
 CTi Variety (中天綜合台) (720p),http://23.237.10.66:16372
 其他,#genre#
-shanghaieye,https://live.shanghaieye.cn/live/24h.m3u8?auth_key=1795369399-0-0-2a80b3d855849843a7e6c3ec0d3eee97
+shanghaieye,https://live.shanghaieye.cn/live/24h.m3u8?auth_key=1795389022-0-0-10503f191cfdad73b7abc4ad2a49ec77
 Beautiful Life TV,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 CGNTV Chinese,https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8
 Good 2,https://live.streamingfast.net/osmflivech2.m3u8
